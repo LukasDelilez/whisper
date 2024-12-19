@@ -1,0 +1,6 @@
+whisper
+sounddevice
+numpy
+scipy
+tkinter
+pyperclip

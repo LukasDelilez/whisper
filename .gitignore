@@ -1,0 +1,15 @@
+# Ignore Python cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.wav
+
+
+# Ignore virtual environment directory
+whisper_env/
+build/
+dist/
+WhisperTranscription_dist/
+
+
